@@ -4,4 +4,6 @@ numpy
 pandas
 scipy
 plotly
+matplotlib
 arch
+statsmodels
